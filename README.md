@@ -1,12 +1,24 @@
-<<<<<<< HEAD
-# React + Vite
+  Space Clicker: Cosmic Clicker Adventure
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌌 Пет проект Clicker игры на React + Vite,
+    Чистый CSS с CRT-фильтрами и анимациями
+    Hooks (useState, useEffect) для управления состоянием
 
-Currently, two official plugins are available:
+✨ Особенности:
+🪐 Космическая тематика с пиксельной графикой и CRT-эффектами
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Clicker
->>>>>>> 3ac546d756a3ef96ceaee49df69bbba259f6b524
+⚡ Улучшения для увеличения силы кликов (от +1 до +5 за клик!)
+
+🏆 Система достижений с уникальными наградами (10, 50, 100 клинков!)
+
+🎮 Адаптивный дизайн для ПК и мобильных устройств
+
+🌟 Неоновые эффекты и анимации в стиле киберпанк
+
+Клонируйте репозиторий:
+
+```
+git clone https://github.com/TrulyGoner/Clicker.git
+cd Clicker && npm install
+npm run dev
+```
