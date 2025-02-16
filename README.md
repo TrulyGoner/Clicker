@@ -1,4 +1,3 @@
-![photo_2025-02-16_22-31-52](https://github.com/user-attachments/assets/bbf0b3e1-fc15-4864-b4ad-770855a87f3e)  Space Clicker: Cosmic Clicker Adventure
 
 🌌 Пет проект Clicker игры на React + Vite,
     Чистый CSS с CRT-фильтрами и анимациями
